@@ -1,4 +1,4 @@
-wenku8-download2026
+#wenku8-download2026
 
 轻小说文库（wenku8）通用下载脚本，干净无广告，自动生成 TXT 全本小说。
 
