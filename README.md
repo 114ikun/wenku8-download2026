@@ -1,4 +1,4 @@
-#wenku8-download2026
+# wenku8-download2026
 
 轻小说文库（wenku8）通用下载脚本，干净无广告，自动生成 TXT 全本小说。
 
@@ -44,4 +44,3 @@ https://www.bilibili.com/opus/1184533022299389959
 
 
 ---
-如果你想，我还能帮你再加一版 更简洁 GitHub 风 或者 带使用截图占位 的版本。
